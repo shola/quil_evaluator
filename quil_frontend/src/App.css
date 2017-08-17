@@ -1,0 +1,25 @@
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+#app-body {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  .spinner {
+    display: block;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+    .flex-item {
+      width: 50%;
+    }
+  }
+}

@@ -1,0 +1,10 @@
+.pyquil_config
+.python_version
+index.pyc
+instructions
+my_pyquil.py
+yarn.lock
+your_quil_files
+node_modules
+quil_frontend/build
+quil_frontend/node_modules
